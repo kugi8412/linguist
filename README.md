@@ -1,3 +1,4 @@
+# Linguist
 The ./linguist.sh text.txt command should print out the words occurring in the text,
 along with the number of their occurrences, starting with the most frequent ones.
 The script can take the -c option, in which case it should print out the letters instead of words.
